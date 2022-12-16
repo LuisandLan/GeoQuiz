@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/drawable-xhdpi_arrow_left.png.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/drawable-xhdpi/arrow_left.png"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/drawable_png.png.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/drawable/png.png"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/layout_activity_cheat.xml.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/layout/activity_cheat.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/drawable-mdpi_arrow_right.png.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/drawable-mdpi/arrow_right.png"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/drawable-hdpi_arrow_right.png.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/drawable-hdpi/arrow_right.png"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/drawable-xhdpi_arrow_right.png.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/drawable-xhdpi/arrow_right.png"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/layout-land_activity_main.xml.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/drawable-xxxhdpi_arrow_right.png.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/drawable-xxxhdpi/arrow_right.png"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/drawable-xxxhdpi_arrow_left.png.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/drawable-xxxhdpi/arrow_left.png"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/drawable-xxhdpi_arrow_left.png.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/drawable-xxhdpi/arrow_left.png"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/drawable-hdpi_arrow_left.png.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/drawable-hdpi/arrow_left.png"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/drawable-xxhdpi_arrow_right.png.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/drawable-xxhdpi/arrow_right.png"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.bignerdranch.android.geomain.app-merged_res-5:/drawable-mdpi_arrow_left.png.flat",
+        "source": "com.bignerdranch.android.geomain.app-main-7:/drawable-mdpi/arrow_left.png"
+    }
+]
